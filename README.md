@@ -1,3 +1,3 @@
-# React Homework. Module 2
+# React Homework. Module 3
 
 Phonebook
